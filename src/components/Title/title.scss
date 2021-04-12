@@ -1,0 +1,21 @@
+.home {
+  &__title {
+    width: 730px;
+    margin: 0 auto 40px;
+    padding-top: 250px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    line-height: 78px;
+    font-size: 64px;
+    color: white;
+  }
+    
+  &__subtitle {
+    width: 730px;
+    margin: 0 auto 80px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 36px;
+    color: white;
+  }
+}

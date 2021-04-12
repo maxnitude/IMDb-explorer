@@ -1,0 +1,17 @@
+.header {
+    height: 80px;
+    width: 100%;
+    background-color: rgb(32, 32, 32);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    &__logo {
+        margin-left: 150px;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 29px;
+        letter-spacing: 0.5em;
+        text-align: left;
+    }
+}
