@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/IMDb-explorer/static/css/main.1c3daf09.chunk.css",
-    "main.js": "/IMDb-explorer/static/js/main.c3ca24b0.chunk.js",
-    "main.js.map": "/IMDb-explorer/static/js/main.c3ca24b0.chunk.js.map",
+    "main.js": "/IMDb-explorer/static/js/main.0fda220d.chunk.js",
+    "main.js.map": "/IMDb-explorer/static/js/main.0fda220d.chunk.js.map",
     "runtime-main.js": "/IMDb-explorer/static/js/runtime-main.c842de47.js",
     "runtime-main.js.map": "/IMDb-explorer/static/js/runtime-main.c842de47.js.map",
     "static/js/2.c04f7088.chunk.js": "/IMDb-explorer/static/js/2.c04f7088.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c842de47.js",
     "static/js/2.c04f7088.chunk.js",
     "static/css/main.1c3daf09.chunk.css",
-    "static/js/main.c3ca24b0.chunk.js"
+    "static/js/main.0fda220d.chunk.js"
   ]
 }
