@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/IMDb-explorer/static/css/main.1af3e384.chunk.css",
+    "main.css": "/IMDb-explorer/static/css/main.1c3daf09.chunk.css",
     "main.js": "/IMDb-explorer/static/js/main.c3ca24b0.chunk.js",
     "main.js.map": "/IMDb-explorer/static/js/main.c3ca24b0.chunk.js.map",
     "runtime-main.js": "/IMDb-explorer/static/js/runtime-main.c842de47.js",
@@ -8,7 +8,7 @@
     "static/js/2.c04f7088.chunk.js": "/IMDb-explorer/static/js/2.c04f7088.chunk.js",
     "static/js/2.c04f7088.chunk.js.map": "/IMDb-explorer/static/js/2.c04f7088.chunk.js.map",
     "index.html": "/IMDb-explorer/index.html",
-    "static/css/main.1af3e384.chunk.css.map": "/IMDb-explorer/static/css/main.1af3e384.chunk.css.map",
+    "static/css/main.1c3daf09.chunk.css.map": "/IMDb-explorer/static/css/main.1c3daf09.chunk.css.map",
     "static/js/2.c04f7088.chunk.js.LICENSE.txt": "/IMDb-explorer/static/js/2.c04f7088.chunk.js.LICENSE.txt",
     "static/media/header-search.scss": "/IMDb-explorer/static/media/Vector.cf9a8844.svg",
     "static/media/background.244c7251.jpg": "/IMDb-explorer/static/media/background.244c7251.jpg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.c842de47.js",
     "static/js/2.c04f7088.chunk.js",
-    "static/css/main.1af3e384.chunk.css",
+    "static/css/main.1c3daf09.chunk.css",
     "static/js/main.c3ca24b0.chunk.js"
   ]
 }
